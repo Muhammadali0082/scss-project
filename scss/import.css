@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: Sailec-Bold;
+  src: url(/Sailec/Sailec\ Bold.ttf);
+}
+@font-face {
+  font-family: Titillium Web;
+  src: url(/Titillium_Web/TitilliumWeb-Regular.ttf);
+}
+.container {
+  width: 75%;
+  margin: 0 auto;
+}/*# sourceMappingURL=improt.css.map */
